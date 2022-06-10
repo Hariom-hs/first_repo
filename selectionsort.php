@@ -21,7 +21,6 @@ for($i=0;$i<=sizeof($num)-1;$i++)
 
 echo '<pre>';
 print_r($num);
-echo "learned vs code";
 
 ?> 
 
